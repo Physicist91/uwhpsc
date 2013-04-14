@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'AMath 483/583, Spring 2013'
+project = u'AMath 483/583 and Coursera'
 copyright = u'2013, Randall J. LeVeque, CC BY'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -182,7 +182,7 @@ htmlhelp_basename = 'uwamath583doc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'uwamath583.tex', u'UW AMath 483/583 Class Notes', 
+  ('index', 'uwamath583.tex', u'UW AMath 483/583 and Coursera Class Notes', 
    u'Randall J. LeVeque', 'manual'),
 ]
 
