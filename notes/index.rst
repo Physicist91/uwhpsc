@@ -3,12 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Contents of class notes for AMath 483/583
-=========================================
+Contents of class notes for AMath 483/583 -- Coursera Edition
+==============================================================
 
-See the `Class Webpage
-<http://faculty.washington.edu/rjl/uwamath583s13/index.html>`_
-for information on instructor, TA, office hours, etc.
 
 Skip to... :ref:`technical_topics` ... :ref:`applications`
 

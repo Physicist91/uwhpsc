@@ -5,10 +5,6 @@
 Homework 2 
 ==========================================
 
-.. comment :: Not yet assigned and may change.  
-
-
-Due Wednesday, April 17, 2013, by 11:00pm PDT.
 
 The goals of this homework are to:
 
@@ -158,9 +154,7 @@ links they point to.  In particular, the following sections are relevant:
 
     Add at least one unit test `test_cubic1` to test this code.
 
- #. **(Required only for 583 students)**  
-
-    Add two new functions `poly_interp` and `plot_poly` to the same module 
+ #. Add two new functions `poly_interp` and `plot_poly` to the same module 
     `hw2b.py` that generalize the above functions to accept arrays `xi` and
     `yi` of any length `n`  (You should check that `len(xi) == len(yi)`).
     Assuming the `xi` values are distinct, this data will define a unique
@@ -204,25 +198,3 @@ links they point to.  In particular, the following sections are relevant:
         * $MYHPSC/homework2/hw2a.py
         * $MYHPSC/homework2/hw2b.py
 
-    Make sure the copies you want graded have been committed, and then
-    push them to bitbucket via::
-
-        $ git push
-
-    These files should then also be visible from your bitbucket webpage, by
-    clicking on the "Source" tab, see :ref:`bitbucket`.
-
-
- #. Finally, you will also have to submit the SHA-1 hash of the 
-    commit that you want graded.  
-    If you are registered in the class, you should be able access the
-    `Canvas course webpage <https://canvas.uw.edu/courses/812916>`_.
-    Go to that page and follow instructions under Homework 2
-    to send us this information.
-
-
-If you discover you made a mistake in what you turned in you may resubmit
-this survey with a different SHA-1 hash code.  Full credit will be received
-only if you make your final submission before the due date/time.
-
-    

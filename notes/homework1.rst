@@ -8,19 +8,15 @@ Homework 1
 .. comment :: Not yet assigned and may change.  
 
 
-Due Wednesday, April 10, 2013, by 11:00pm PDT.
+
 
 The goals of this homework are to:
 
  * Make sure you are familiar with basic Unix commands (see :ref:`unix`)
    and an editor, (see :ref:`editors`),
  * Start using *git* (:ref:`git`) to download course materials,
- * Create your own bitbucket repository to keep your coursework and post homeworks
-   to be graded.
+ * Create your own bitbucket repository to keep your coursework
  * Make sure you have some necessary software installed.
-
-Start early on this assignment so that you can get help from the TAs and/or
-discussion board if you have trouble with software or with using *git*.
 
 Before tackling this homework, you should read some of the class notes and
 links they point to.  In particular, the following sections are relevant:
@@ -32,17 +28,18 @@ links they point to.  In particular, the following sections are relevant:
  * :ref:`bitbucket`
  * :ref:`biblio`
 
-By doing this homework you create a bitbucket repository containing
-some files that we can view to grade.
+For UW students, a primary goal of this homework is to 
+create a bitbucket repository to add files to that can be graded by the
+course instructors.
+
+Homework done by Coursera students will not be viewed or graded but you may
+still want to follow these instructions to get yourself set up.  Parts not
+relevant have been deleted from the assignment.
 
 See also the `Bitbucket 101 instructions
 <https://confluence.atlassian.com/display/BITBUCKET/Bitbucket+101>`_ that
 for more tips on setting up bitbucket accounts and using git.
 
- #. First, if you have not already completed the survey on your background
-    and computing needs, please do so now.  You can find it 
-    `here <https://canvas.uw.edu/courses/812916/quizzes/738064>`_.
-    [Available as of Friday, April 5]
 
  #. Make sure you have access to *git* on the computer you plan to use
     (see :ref:`software_installation`).  Read the section :ref:`git` and the
@@ -150,8 +147,7 @@ for more tips on setting up bitbucket accounts and using git.
     Do **not** check in the file *a.out*, which was created when the Fortran
     code was compiled.
 
-    Make sure the copies you want graded have been committed, and then
-    push them to bitbucket via::
+    Push them to bitbucket via::
 
         $ git push
 
@@ -159,29 +155,3 @@ for more tips on setting up bitbucket accounts and using git.
     clicking on the "Source" tab, see :ref:`bitbucket`.
 
 
- #. You created a private repository, so you will have to give us permission 
-    to view or clone it.  Do so by clicking on the Gear tab at the top of
-    your Bitbucket page for this repository, then on "Access Management", 
-    and then add the following three users with Read access:
-    *rjleveque* and the TAs *smoe* and *ssusie*.
-
- #. Finally, let us know where your Bitbucket repository is so that we can
-    clone it and/or view your source files online in order to grade it.
-    If you are registered in the class, you should be able access the
-    `Canvas course webpage <https://canvas.uw.edu/courses/812916>`_.
-    Go to that page and follow instructions under Homework 1
-    to send us this information.
-
-    You will also have to submit the SHA-1 hash of the 
-    commit that you want graded.  This is the 40-digit hexadecimal string
-    that shows up when you type::
-
-        $ git log
-
-    in your repository.
-
-If you discover you made a mistake in what you turned in you may resubmit
-this survey with a different SHA-1 hash code.  Full credit will be received
-only if you make your final submission before the due date/time.
-
-    

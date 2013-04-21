@@ -6,8 +6,6 @@ Homework 3
 ==========================================
 
 
-Due Wednesday, May 1, 2013, by 11:00pm PDT.
-
 The goals of this homework are to:
 
 * Learn more about "best practices in scientific computing".
@@ -238,15 +236,8 @@ The goals of this homework are to:
     a new macro such as `OBJECTS2` that is the list of object files needed
     to create `intersections.exe`
 
-#.  **583 students only --- to appear***
-    
-.. warning :: Incomplete, more will be added to the assignment for 583
-   students.
 
-To submit
----------
-
-Your homework3 directory should contain:
+At the end, your homework3 directory should contain:
 
     * `newton.py` with your Newton code and tests
     * `intersections.py` with the code to solve the intersection problem and
@@ -258,8 +249,3 @@ Your homework3 directory should contain:
     * `test1.f90`  (unchanged, but "make test1" should still work)
     * `Makefile`  (modified to add "make intersections" option)
 
-As usual, commit your results, push to bitbucket, and see the Canvas
-course page for the link to submit the SHA-1 hash code.  These should be 
-submitted by the due date to receive full credit.
-
-    
