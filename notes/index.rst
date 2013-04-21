@@ -74,6 +74,39 @@ Python
    numerical_python
    ipython_notebook
    sage
+   python_plotting
+   python_debugging
+
+.. _fortran:
+
+#################
+Fortran
+#################
+
+.. toctree::
+   :maxdepth: 2
+
+   fortran
+   gfortran_flags
+   fortran_sub
+   fortran_taylor
+   fortran_arrays
+   fortran_modules
+   fortran_io
+   fortran_debugging
+   fortran_newton
+
+.. _toc_misc:
+
+#################
+Miscillaneous
+#################
+
+.. toctree::
+   :maxdepth: 2
+
+   makefiles
+   special_functions
 
 .. _toc_biblio:
 
