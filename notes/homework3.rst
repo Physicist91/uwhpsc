@@ -26,11 +26,6 @@ The goals of this homework are to:
     of these best practices, but there are many good tips in the paper that
     have not been covered in lectures.
 
-    There will be a quiz on this paper to complete as part of the homework
-    assignment.  This quiz can be found on the Canvas page
-    `Homework 3 quiz <https://canvas.uw.edu/courses/812916/quizzes/739901>`_.
-    
-
     Note: If you are not familiar with the `arXiv <http://arxiv.org/>`_ you
     might want to explore the wide range of preprints and publications that
     authors have posted to make them freely available.
