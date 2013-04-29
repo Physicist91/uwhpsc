@@ -6,8 +6,8 @@
 Homework 
 ====================
 
-There will be 6 suggested homeworks during the quarter with
-target dates for completion listed below:
+There will be 6 suggested homeworks and a final project
+during the quarter with target dates for completion listed below:
 
  * :ref:`homework1`: Wednesday of Week 2
  * :ref:`homework2`: Wednesday of Week 3

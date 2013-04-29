@@ -43,7 +43,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'classnotes'
 
 # General information about the project.
 project = u'AMath 483/583 and Coursera'
@@ -170,7 +170,6 @@ html_last_updated_fmt = '%b %d, %Y'
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'uwamath583doc'
 
-
 # -- Options for LaTeX output --------------------------------------------------
 
 # The paper size ('letter' or 'a4').
@@ -182,13 +181,13 @@ htmlhelp_basename = 'uwamath583doc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'uwamath583.tex', u'UW AMath 483/583 and Coursera Class Notes', 
+  ('index', 'uwamath583.tex', u'UW AMath 483/583 Class Notes', 
    u'Randall J. LeVeque', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-#latex_logo = None
+latex_logo = 'images/latexlogo.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
