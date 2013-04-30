@@ -6,6 +6,8 @@
 Homework 
 ====================
 
+**Note:** Coursera homework is not submitted or graded.  
+
 There will be 6 suggested homeworks and a final project
 during the quarter with target dates for completion listed below:
 

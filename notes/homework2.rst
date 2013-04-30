@@ -5,6 +5,7 @@
 Homework 2 
 ==========================================
 
+**Note:** Coursera homework is not submitted or graded.  
 
 The goals of this homework are to:
 

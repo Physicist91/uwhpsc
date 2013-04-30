@@ -43,7 +43,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8'
 
 # The master toctree document.
-master_doc = 'classnotes'
+master_doc = 'index'
 
 # General information about the project.
 project = u'Coursera Edition'
@@ -181,7 +181,7 @@ htmlhelp_basename = 'uwamath583doc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('classnotes', 'classnotes.tex', u'UW HPSC Class Notes', 
+  ('index', 'classnotes.tex', u'UW HPSC Class Notes', 
    u'Randall J. LeVeque', 'manual'),
 ]
 
@@ -202,7 +202,8 @@ latex_logo = 'images/latexlogo.png'
 # If false, no module index is generated.
 #latex_use_modindex = True
 
-html_copy_source = False
-html_show_sourcelink = False
-html_sidebars = {
-   '**': ['globaltoc.html'] }
+# For single page html (see make_singlehtml.sh)
+#html_copy_source = False
+#html_show_sourcelink = False
+#html_sidebars = {
+#   '**': ['globaltoc.html'] }

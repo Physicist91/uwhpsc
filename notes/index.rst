@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Contents of class notes for AMath 483/583 -- Coursera Edition
+Contents of class notes for UW HPSC -- Coursera Edition
 ==============================================================
 
 
-Skip to... :ref:`technical_topics` ... :ref:`applications`
+Skip to... :ref:`technical_topics`
 
 :ref:`toc_condensed`
 
