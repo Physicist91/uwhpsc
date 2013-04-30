@@ -170,7 +170,6 @@ See `<http://sphinx.pocoo.org/>`_
 
 .. _installing_gfortran:
 
-
 gfortran
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

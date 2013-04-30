@@ -11,7 +11,7 @@ during the quarter with target dates for completion listed below:
 
  * :ref:`homework1`: Wednesday of Week 2
  * :ref:`homework2`: Wednesday of Week 3
- * :ref:`homework3`: Wednesday of Week 5
+ * Homework 3: Wednesday of Week 5
  * Homework 4: Wednesday of Week 6
  * Homework 5: Wednesday of Week 8
  * Homework 6: Wednesday of Week 9

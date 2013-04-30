@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'classnotes'
 
 # General information about the project.
-project = u'AMath 483/583 and Coursera'
+project = u'Coursera Edition'
 copyright = u'2013, Randall J. LeVeque, CC BY'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -181,7 +181,7 @@ htmlhelp_basename = 'uwamath583doc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'uwamath583.tex', u'UW AMath 483/583 Class Notes', 
+  ('classnotes', 'classnotes.tex', u'UW HPSC Class Notes', 
    u'Randall J. LeVeque', 'manual'),
 ]
 
@@ -201,3 +201,8 @@ latex_logo = 'images/latexlogo.png'
 
 # If false, no module index is generated.
 #latex_use_modindex = True
+
+html_copy_source = False
+html_show_sourcelink = False
+html_sidebars = {
+   '**': ['globaltoc.html'] }

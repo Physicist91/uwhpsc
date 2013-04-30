@@ -235,12 +235,7 @@ The goals of this homework are to:
     a new macro such as `OBJECTS2` that is the list of object files needed
     to create `intersections.exe`
 
-<<<<<<< HEAD
-=======
-#.  **583 students only need to turn this in.**  Others might want to at read this and try to 
-    understand the point being made even if you don't write the code...
-    
-    Create subdirectory `homework3/am583` with modified files for this part of the assignment.
+#.  Create subdirectory `homework3/am583` with modified files for this part of the assignment.
 
     In the original version of `newton.f90`, the module parameter   `maxiter` was set to 20.
     Change it to 40 in this version since convergence will be slower for the problem below.
