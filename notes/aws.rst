@@ -34,6 +34,8 @@ instance).  See the `pricing guide <http://aws.amazon.com/ec2/#pricing>`_.
 
 For general information and guides to getting started:
 
+* An introduction will be given in one of the Week 2 lectures.
+
 * `Getting started with EC2 <http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/>`_,
   with tutorial to lead you through an example.
 

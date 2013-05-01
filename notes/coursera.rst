@@ -34,6 +34,13 @@ Please note the following about the Coursera Edition:
   and pointers to some other computing options.  The discussion
   forum may also be a useful resource.
 
+* One option to avoid  installing several packages is to use the 
+  :ref:`vm`.  An introduction to the VM is given in one of the Week 1
+  lectures.
+
+* Another option is to compute "in the cloud", see :ref:`aws`.
+  An introduction will be given in one of the Week 2 lectures.
+
 * Each set of lectures will have a quiz associated with it. These will be
   automatically graded to give you feedback on whether you are understanding
   the material.  However, there is no credit or certificate given for this
