@@ -96,7 +96,7 @@ Fortran
 .. _toc_misc:
 
 #################
-Miscillaneous
+Miscellaneous
 #################
 
 .. toctree::

@@ -20,6 +20,7 @@ Course materials
 .. toctree::
    :maxdepth: 2
 
+   coursera
    about
    outline
    homeworks
@@ -96,7 +97,7 @@ Fortran
 .. _toc_misc:
 
 #################
-Miscillaneous
+Miscellaneous
 #################
 
 .. toctree::
