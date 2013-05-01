@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Contents of class notes for UW HPSC -- Coursera Edition
+Class notes for UW HPSC -- Coursera Edition
 ==============================================================
 
+The table of contents is along the right margin.
 
 Skip to... :ref:`technical_topics`
 
-:ref:`toc_condensed`
 
 .. _course_materials:
 
@@ -20,7 +20,6 @@ Course materials
 .. toctree::
    :maxdepth: 2
 
-   coursera
    about
    outline
    homeworks
@@ -118,3 +117,13 @@ References
 
    biblio
    software_carpentry
+
+#################
+Homeworks
+#################
+
+.. toctree::
+   :maxdepth: 1
+
+   homework1
+   homework2

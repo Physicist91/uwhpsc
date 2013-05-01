@@ -16,12 +16,7 @@ that has been built specifically for this course.  VirtualBox will run this
 machine, which will emulate a specific version of Linux that already has
 installed all of the software packages that will be used in this course.
 
-You can find the VM on the `class 
-webpage <http://faculty.washington.edu/rjl/classes/am583s2013/>`_.
-Note that the file is quite
-large (approximately 750 MB compressed), and if possible you should
-download it from on-campus to shorten the download time.  The TA's will also
-have the VM on memory sticks for transferring.
+You can find the VM on the course webpage.
 
 
 System requirements

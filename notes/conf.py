@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'AMath 483/583 and Coursera'
+project = u'Coursera Edition'
 copyright = u'2013, Randall J. LeVeque, CC BY'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -170,7 +170,6 @@ html_last_updated_fmt = '%b %d, %Y'
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'uwamath583doc'
 
-
 # -- Options for LaTeX output --------------------------------------------------
 
 # The paper size ('letter' or 'a4').
@@ -182,13 +181,13 @@ htmlhelp_basename = 'uwamath583doc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'uwamath583.tex', u'UW AMath 483/583 and Coursera Class Notes', 
+  ('index', 'classnotes.tex', u'UW HPSC Class Notes', 
    u'Randall J. LeVeque', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-#latex_logo = None
+latex_logo = 'images/latexlogo.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
@@ -202,3 +201,9 @@ latex_documents = [
 
 # If false, no module index is generated.
 #latex_use_modindex = True
+
+# For single page html (see make_singlehtml.sh)
+#html_copy_source = False
+#html_show_sourcelink = False
+#html_sidebars = {
+#   '**': ['globaltoc.html'] }

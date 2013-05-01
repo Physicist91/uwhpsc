@@ -37,9 +37,10 @@ it is written.  You can do this with these class notes or you might look at
 one of the other [sphinx-examples]_ to see other styles.
 
 Note that any time you are reading a page of these class notes (or other
-things created with Sphinx) there is generally a menu item *Show Source* (on
-this page it's on the left, under the heading *This Page*) and clicking on
-this link shows the raw text file as originally written.  *Try this now*.
+things created with Sphinx) there is generally a menu item *Show Source* 
+and clicking on
+this link shows the raw text file as originally written.  
+(This is not true of the Coursera version of these notes.)
 
 It is possible to customize Sphinx so the pages look very different, as
 you'll see if you visit some other projects listed at [sphinx-examples]_.

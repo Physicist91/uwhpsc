@@ -8,6 +8,7 @@ Homework 1
 .. comment :: Not yet assigned and may change.  
 
 
+**Note:** Coursera homework is not submitted or graded.  
 
 
 The goals of this homework are to:
