@@ -58,10 +58,19 @@ Using Sphinx to create these webpages
 If you clone the git repository for this class (see :ref:`git`), you will find
 a subdirectory called *notes*, containing a number of files with the
 extension *.rst*, one for each webpage, containing the ReStructuredText
-input.  To create the html pages, first make sure you have Sphinx installed
-via::
+input.  
 
-        $ which sphinx
+Make sure you have done:
+
+    $ git checkout coursera
+
+first in the repository (i.e. from within the `$UWHPSC` directory or any
+subdirectory such as `$UWHPSC/notes`)
+so that you see the Coursera version of the class notes.
+
+To create the html pages, first make sure you have Sphinx installed via::
+
+        $ which sphinx-build
 
 (see :ref:`software_installation`) and then type::
 
