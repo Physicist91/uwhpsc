@@ -150,8 +150,6 @@ free at Bitbucket, which you might want to do for open source software
 projects, or for classes like this one.
 
 Follow these directions exactly.  Doing so is part of :ref:`homework1`.
-We will clone your repository and check that *testfile.txt* has been created
-and modified as directed below.
 
 
 #. On the machine you're working on:: 

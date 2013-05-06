@@ -138,7 +138,7 @@ for more tips on setting up bitbucket accounts and using git.
     **Note:** At the end you should have the following files committed
     to your repository:
 
-        * $MYHPSC/testfile.txt
+        * $MYHPSC/testfile.txt (created when following :ref:`mygit`)
         * $MYHPSC/homework1/test1.py
         * $MYHPSC/homework1/test1output.txt
         * $MYHPSC/homework1/test2.sh
