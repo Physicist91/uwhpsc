@@ -32,7 +32,7 @@ The goals of this homework are to:
 
 #.  **Programming assignments**
     You should create a new subdirectory `homework3` (of the same private
-    repository you have used for submitting previous  homeworks).  
+    repository you have used for previous  homeworks).  
     Develop your code for the problems below in this directory
     and feel free to commit as
     often as you like, it will help you recover from blunders.
