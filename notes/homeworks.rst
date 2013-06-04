@@ -23,11 +23,11 @@ during the quarter with target dates for completion listed below:
  * :ref:`homework1`: Week 2
  * :ref:`homework2`: Week 3
  * :ref:`homework3`: Week 5 
+ * :ref:`homework4`: Week 6 
 
 The following will be available roughly 2 weeks before the suggested
 completion date: 
 
- * Homework 4: Week 6
  * Homework 5: Week 8
  * Homework 6: Week 9
  * Final Project: Week 10
