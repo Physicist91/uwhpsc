@@ -136,6 +136,8 @@ The goals of this homework are to:
     Note that you will have to "use omp_lib" both in the main program and in
     the trapezoid function.
 
+When finished
+-------------
 
 At the end, your homework4 directory should contain:
 
