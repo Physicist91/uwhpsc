@@ -1,11 +1,11 @@
-! $UWHPSC/codes/openmp/jacobi1.f90
+! $UWHPSC/codes/openmp/jacobi1d_omp1.f90
 !
 ! Jacobi iteration illustrating fine grain parallelism with OpenMP.
 !
 ! Several omp parallel do loops are used.  Each time threads will be
 ! forked and the compiler will decide how to split up the loop.
 
-program jacobi1
+program jacobi1d_omp1
     use omp_lib
     implicit none
     integer :: n, nthreads
@@ -77,20 +77,18 @@ program jacobi1
         enddo
 
         call cpu_time(t2)
-        print 10, t2-t1
-     10 format("CPU time = ",f12.8, " seconds")
+        print '("CPU time = ",f12.8, " seconds")', t2-t1
 
         print *, "Total number of iterations: ",iter
 
     write(20,*) "          x                  u"
     do i=0,n+1
-        write(20,222), x(i), u(i)
+        write(20,'(2e20.10)'), x(i), u(i)
         enddo
-222 format(2e20.10)
 
     print *, "Solution is in heatsoln.txt"
 
 
     close(20)
 
-end program jacobi1
+end program jacobi1d_omp1
