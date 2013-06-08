@@ -33,3 +33,11 @@ The following will be available by Week 8:
 
 These are essentially the same assignments used in the UW course.
 
+Homework solutions
+------------------
+
+Sample solutions to the homework assignments can now be found in
+the directory $UWHPSC/solutions.  To maximize the learning experience,
+it is recommended that you attempt to fully complete the homeworks
+without consulting the solutions. But if you get stuck, studying
+the solutions may help you better understand the material.
