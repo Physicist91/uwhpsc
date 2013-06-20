@@ -26,10 +26,7 @@ during the quarter with target dates for completion listed below:
  * :ref:`homework4`: Week 6 
  * :ref:`homework5`: Week 8 
  * :ref:`homework6`: Week 9 
-
-The following will be available by Week 8:
-
- * Final Project: Week 10
+ * :ref:`project`: Week 10
 
 These are essentially the same assignments used in the UW course.
 
