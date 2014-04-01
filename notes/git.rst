@@ -196,6 +196,15 @@ and modified as directed below.
    To avoid confusion, you should probably not name your repository
    *uwhpsc*.  
 
+   You should stick to lower case letters and numbers in your repository
+   name, e.g. *myhpsc* or *amath583* might be good choices.  Upper case and 
+   special symbols such as underscore sometimes get modified by bitbucket
+   and the repository name you try to paste into the homework submission
+   form might not agree with what bitbucket expects.
+
+   Don't name your repository *homework1* because you will be using the 
+   same repository for other homeworks later in the quarter.
+
 #. Make sure you click on "Private" at the bottom.  Also turn "Issue
    tracking" and "Wiki" on if you wish to use these features.  
 

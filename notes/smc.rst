@@ -58,7 +58,11 @@ To view this png file (from outside the notebook) there are several options:
 
 * Open a terminal and do `ls` to list the files.  Assuming you're in the
   home directory you should see `myplot.png` listed as one of the files.
-  Type `open myplot.png` in the terminal.
+  Type::
+
+       $ open myplot.png 
+
+  in the terminal.
 
 * View it on the web from a web browser (even on a different computer) at
   the URL

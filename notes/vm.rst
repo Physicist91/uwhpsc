@@ -5,8 +5,6 @@
 Virtual Machine for this class [2014 Edition]
 =============================================================
 
-.. warning::  Need to update! VM not yet available
-
 
 We are using a wide variety of software in this class, much of which is
 probably not found on your computer.  It is all open source software (see
@@ -20,9 +18,14 @@ machine, which will emulate a specific version of Linux that already has
 installed all of the software packages that will be used in this course.
 
 You can find the VM on the `class 
-webpage <http://faculty.washington.edu/rjl/classes/am583s2014/>`_.
+webpage <http://faculty.washington.edu/rjl/classes/am583s2014/>`_
+in the file `uwhpsc.zip
+<http://faculty.washington.edu/rjl/classes/am583s2014/uwhpsc.zip>`_.
+
+.. warning:: Not yet available, but soon will be.
+
 Note that the file is quite
-large (approximately 750 MB compressed), and if possible you should
+large (approximately 723 MB compressed), and if possible you should
 download it from on-campus to shorten the download time.  The TA's will also
 have the VM on memory sticks for transferring.
 
@@ -30,7 +33,7 @@ have the VM on memory sticks for transferring.
 System requirements
 -------------------
 
-The VM is around 2.1 GB in size, uncompressed, and the virtual disk
+The VM is around 2 GB in size, uncompressed, and the virtual disk
 image may expand to up to 8 GB, depending on how much data you store
 in the VM.  Make sure you have enough free space available before
 installing.  You can set how much RAM is available to the VM when

@@ -6,8 +6,9 @@
 Homework 
 ==========================
 
-Homeworks assigned in 2013 can be found in :ref:`2013_homeworks`.  Some
-solutions to these homeworks are in the directory `$UWHPSC/solutions2013`.
+Homeworks assigned in 2013 can be found in :ref:`2013_homeworks` and the
+code they refer to can be found in `$UWHPSC/2013/homeworks`.  Some
+solutions to these homeworks are in the directory `$UWHPSC/2013/solutions`.
 
 2014 Homework assignments
 -------------------------

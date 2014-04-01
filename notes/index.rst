@@ -39,6 +39,7 @@ Course materials -- 2014 Edition
    about
    class_format
    outline
+   labs/index
    homeworks
    computing_options
    software_installation
