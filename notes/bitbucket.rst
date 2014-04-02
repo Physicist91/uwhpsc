@@ -42,6 +42,6 @@ the developers won't appreciate it.  Instead try doing it on your own
 bitbucket repository that you set up following :ref:`myhg`.
 
 You might also want to look at the bitbucket page for this class repository,
-at `<http://bitbucket.org/rjleveque/uwamath583s13/>`_ to keep track
+at `<http://bitbucket.org/rjleveque/uwhpsc/>`_ to keep track
 of changes made to notes or code available.
 

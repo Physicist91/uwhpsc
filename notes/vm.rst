@@ -22,10 +22,9 @@ webpage <http://faculty.washington.edu/rjl/classes/am583s2014/>`_
 in the file `uwhpsc.zip
 <http://faculty.washington.edu/rjl/classes/am583s2014/uwhpsc.zip>`_.
 
-.. warning:: Not yet available, but soon will be.
 
 Note that the file is quite
-large (approximately 723 MB compressed), and if possible you should
+large (approximately 803 MB compressed), and if possible you should
 download it from on-campus to shorten the download time.  The TA's will also
 have the VM on memory sticks for transferring.
 

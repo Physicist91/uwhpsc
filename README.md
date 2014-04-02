@@ -9,6 +9,7 @@ The 2014 version of these notes can be found at
     http://faculty.washington.edu/rjl/classes/am583s2014/notes/
 
 
+UW students should checkout the branch *master* (the default).
 
 
 Directories:
@@ -16,14 +17,19 @@ Directories:
  * *notes* contains .rst files for the class notes.  Type "make html"
    to create .html files in notes/_build/html  (requires Sphinx).
 
- * *notes/2014* contains 2014 versions of some of the rst pages.
+ * *notes/2013* contains 2013 versions of some of the rst pages.
 
  * *codes* contains sample codes in various languages.
 
- * *lectures* contains some codes developed during lectures.
+ * *lectures* contains some codes developed during lectures given in 2013 and used
+   in 2014 at UW.
 
- * *labs* contains some codes developed during T-Th labs in 2014.
+ * *labs* contains some codes developed during T-Th labs for UW students in 2014.
 
- * *solutions* contains homework solutions from 2013.
+ * *2013* contains homework and solutions from 2013.
 
- * *solutions2014* contains homework solutions for 2014.
+
+Coursera students should checkout the branch *coursera* and will see the repository
+as created in 2013 to accompany the lectures.
+
+
