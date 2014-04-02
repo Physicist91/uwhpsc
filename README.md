@@ -12,7 +12,7 @@ The 2014 version of these notes can be found at
 UW students should checkout the branch *master* (the default).
 
 
-Directories:
+Directories on the *master* branch:
 
  * *notes* contains .rst files for the class notes.  Type "make html"
    to create .html files in notes/_build/html  (requires Sphinx).
@@ -28,8 +28,11 @@ Directories:
 
  * *2013* contains homework and solutions from 2013.
 
+ * *homeworks* contains some code needed for UW homework assignments in 2014.
 
-Coursera students should checkout the branch *coursera* and will see the repository
+------
+
+**Coursera students** should checkout the branch *coursera* and will see the repository
 as created in 2013 to accompany the lectures.
 
 
