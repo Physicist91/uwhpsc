@@ -20,7 +20,8 @@ The goals of this homework are to:
 * Start using *git* (:ref:`git`) to download course materials,
 * Create your own bitbucket repository to keep your coursework and post homeworks
   to be graded.
-* Make sure you have some necessary software installed.
+* Make sure you have some necessary software installed.  (If you use SageMathCloud,
+  you should have everything needed.)
 
 Start early on this assignment so that you can get help from the TAs and/or
 discussion board if you have trouble with software or with using *git*.
@@ -171,7 +172,7 @@ for more tips on setting up bitbucket accounts and using git.
 .. warning :: Not yet complete!
    An additional problem will be added after lab on Thursday.
 
-   Submissions instructions will also be provided once the assignment is complete,
+   Submission instructions will also be provided once the assignment is complete,
    but in the meantime you can start on the steps above.
    You can commit to your repository and push changes to bitbucket as often as you 
    want before the submission, and you are encouraged to get in the habit of 
