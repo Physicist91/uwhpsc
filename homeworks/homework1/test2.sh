@@ -5,7 +5,7 @@
 # Then execute:
 #    $ bash test2.sh
 # When it looks good, redirect output to a file:
-#    $ bash test2h.sh > test2output.txt
+#    $ bash test2.sh > test2output.txt
 
 echo 
 echo Code run by  **INSERT YOUR NAME HERE**
