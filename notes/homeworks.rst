@@ -9,6 +9,7 @@ Homework
 Homeworks assigned in 2013 can be found in :ref:`2013_homeworks` and the
 code they refer to can be found in `$UWHPSC/2013/homeworks`.  Some
 solutions to these homeworks are in the directory `$UWHPSC/2013/solutions`.
+These homeworks may be referenced in some of the lectures.
 
 2014 Homework assignments
 -------------------------
@@ -16,7 +17,7 @@ solutions to these homeworks are in the directory `$UWHPSC/2013/solutions`.
 There will be 4 homeworks during the quarter with
 tentative due dates listed below:
 
- * Homework 1: Wednesday of Week 2, April 9  [assignment will be posted soon]
+ * :ref:`homework1`: Wednesday of Week 2, April 9  
  * Homework 2: Wednesday of Week 4, April 23
  * Homework 3: Wednesday of Week 6, May 7 
  * Homework 4: Wednesday of Week 8, May 21
