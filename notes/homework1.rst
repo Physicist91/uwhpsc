@@ -5,13 +5,12 @@
 Homework 1 [2014]
 ==========================================
 
-.. warning :: Not yet complete!
-   An additional problem will be added after lab on Thursday.
-
 
 
 Due Wednesday, April 9, 2014, by 11:00pm PDT.
 See below for how to submit.
+
+.. warning::  Part 10 was recently added.  The assignment is now complete.
 
 The goals of this homework are to:
 
@@ -154,9 +153,87 @@ for more tips on setting up bitbucket accounts and using git.
     Do **not** check in the file *a.out*, which was created when the Fortran
     code was compiled.
 
-    Make sure the copies you want graded have been committed, and then
+
+
+ #. For this part you might want to use an IPython notebook to experiment
+    with the code, but please turn in the modified `hw1.py` file as 
+    described below.
+
+    The file `$UWHPSC/homeworks/homework1/hw1.py` contains modified
+    versions of the Python functions `qroots` and `plotq` discussed in
+    Lab 2.  Copy this file to your directory `$MYHPSC/homework1/hw1.py`
+    and modify it as described.
+
+    Also copy the script `$UWHPSC/homeworks/homework1/run_hw1.py`
+    that can be used to print out the roots and
+    create the plot.  Set the desired values of `a,b,c` in this file and then
+    type::
+
+        $ python run_hw1.py
+
+    In particular, `qroots` has been modified to work also if the
+    roots are complex.  The function `plotq` has been modified slightly so
+    that it plots the quadratic function as a function of a real variable
+    `x` and then plots the real part of the the two roots as red dots on the
+    `x` axis.  These plots look fine if the roots are real, but are
+    misleading if the roots are complex.
+
+    Modify the function `plotq` so that it produces the same plot as
+    currently if the roots are real, but if the roots are complex it instead
+    gives a plot of the `x-y` plane that shows the location of the two
+    complex roots as red dots (where `x` is the real part and `y` the
+    imaginary part of the root`.  So for example, if the coefficients are
+    specified as::
+
+        a = 1.
+        b = 2.
+        c = 3.
+
+    then the code should produce a plot that looks like this:
+
+    .. image:: images/hw1a.png
+       :width: 10cm
+
+    Note that you should draw both the `x` and `y` axis and choose `xlimits`
+    and `ylimits` so that the roots and the origin are in view.  You can
+    use::
+
+            xlower = -abs(x0) - 1
+            xupper = abs(x0) + 1
+            ylower = min(y0, y1) - 1
+            yupper = max(y0, y1) + 1
+
+    (Recall that complex roots always come in conjugate pairs if the
+    coefficients `a,b,c` are real, and you can assume this is the case.)
+
+    **Note:** 
+    Setting the values of `a,b,c` in `run_hw1.py` appropriately and executing::
+
+        $ python run_hw1.py
+
+    should now produce the above plot and the output::
+
+        a = 1,  b = 2,  c = 3
+        The roots are: 
+           z0 = -1 + -1.41421j
+           z1 = -1 + 1.41421j
+         Created roots_plot.png
+
+    **Note:** To grade this part of the homework, we will run a modified version
+    of this script that uses several different sets of coefficients `a,b,c` 
+    so you should test your code for various reasonable sets of coefficients
+    to insure it is working properly.  (You can assume `a,b,c` will be real.)
+
+    At the end of this part you should also commit the following 
+    files to your repository:
+
+    * `$MYHPSC/homework1/hw1.py`        (your improved version)
+    * `$MYHPSC/homework1/run_hw1.py`    (can be the original version)
+
+ #. Make sure the copies you want graded have been committed, and then
     push them to bitbucket via::
 
+        $ cd $MYHPSC  # or you can be in any subdirectory 
         $ git push
 
     These files should then also be visible from your bitbucket webpage, by
@@ -169,13 +246,17 @@ for more tips on setting up bitbucket accounts and using git.
     and then add the following three users with Read access:
     *rjleveque* and the TAs *smoe* and *mvelegar*.
 
-.. warning :: Not yet complete!
-   An additional problem will be added after lab on Thursday.
+ #. Submit the commit number that you want graded by following the link
+    provided on the `Canvas page for Homework 1
+    <https://canvas.uw.edu/courses/893991/assignments/2486102>`_
+    If you submit the wrong thing or make further changes to your work
+    before the due date, you can simply resubmit new information at the same
+    link.
 
-   Submission instructions will also be provided once the assignment is complete,
-   but in the meantime you can start on the steps above.
-   You can commit to your repository and push changes to bitbucket as often as you 
-   want before the submission, and you are encouraged to get in the habit of 
-   commiting changes often as you develop code -- that's the whole point of using 
-   version control!
+**Note:**
+You can commit to your repository and push changes to bitbucket as often as you 
+want before the submission, and you are encouraged to get in the habit of 
+commiting changes often as you develop code -- that's the whole point of using 
+version control!
+
 
