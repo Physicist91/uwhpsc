@@ -20,7 +20,7 @@ import hw1
 # coefficients -- 
 a = 1.
 b = 2.
-c = 3.
+c = -3.
 
 z0,z1 = hw1.qroots(a,b,c)
 x0 = real(z0)
