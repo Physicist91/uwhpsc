@@ -1,11 +1,12 @@
 """
 Module for approximating sqrt.
-More ...
+Does not work with negative numbers.
 """
 
 def sqrt2(x, debug=False):
     """
-    more details.
+    Approximating square root by Newton's method.
+    Does not work with negative numbers.
     """
     from numpy import nan
     
@@ -14,7 +15,7 @@ def sqrt2(x, debug=False):
     elif x<0:
         print "*** Error, x must be nonnegative"
         return nan
-    assert x>0. and type(x) is float, "Unrecognized input"
+    assert x>0. and (type(x) is float or type(x) is int), "Unrecognized input"
         
     s = 1.
     kmax = 100
